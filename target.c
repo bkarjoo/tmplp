@@ -1,4 +1,5 @@
-#include "../etc/functions.h"
+#include "../functions.h"
+#include "vars.h"
 target_order_type = PRIMUS_AEL
 target_order_side = SELL
 target_destination = CSFB
